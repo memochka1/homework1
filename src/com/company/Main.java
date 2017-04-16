@@ -6,6 +6,7 @@
         Eugene
 
         Hello, Eugene*/
+
 package com.company;
 
 import java.util.Scanner;
